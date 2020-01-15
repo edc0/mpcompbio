@@ -1,0 +1,3 @@
+Namespace(constraints='out_distograms_rosetta/1e2uA04True.cst', fasta='fasta/1e2uA04.fasta', frag3=None, frag9=None, mapping='mapping/1e2uA04', native='pdb/1e2uA04.pdb', nmr=None, output='out_trajectories/1e2uA04True', photoAA=None, prediction='out_distograms_numpy/1e2uA04True.npz', sulfoSDA=None)
+Results: 
+fasta/1e2uA04.fasta,14.278733253479004,247400.04641855488,1875.7520005528463,802.4059088100003
